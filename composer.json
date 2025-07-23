@@ -1,0 +1,13 @@
+{
+    "name": "thaumware/core",
+    "description": "Core package for Thaumware",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Thaumware\\Core\\": "Thaumware/Infrastructure/",
+            "Thaumware\\Domain\\": "Thaumware/Domain/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

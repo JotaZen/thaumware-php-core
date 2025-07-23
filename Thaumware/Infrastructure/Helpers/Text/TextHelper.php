@@ -2,7 +2,7 @@
 
 namespace Thaumware\Core\Helpers\Text;
 
-use Thaumware\Core\Domain\Facades\UuidFacade;
+use Thaumware\Domain\Facades\UuidFacade;
 
 class TextHelper
 {

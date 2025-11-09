@@ -1,6 +1,6 @@
 <?php
 
-namespace Thaumware\Core\Helpers\Fechas;
+namespace Thaumware\Support\Datetime;
 
 use DateTime;
 use DateTimeImmutable;
